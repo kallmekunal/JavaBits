@@ -1,4 +1,4 @@
-package com.kunal.practice.thread.completionservice.canteenservice;
+package com.kunal.practice.thread.completionservice.JavaBits.canteenservice;
 
 import java.util.Date;
 import java.util.concurrent.Callable;
